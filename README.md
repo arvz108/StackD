@@ -83,7 +83,7 @@ Unity Game based on the classic Stack game on mobile devices
 
 ### Built With
 
-* [Flutter](https://github.com/flutter/flutter)
+* [Unity](https://unity.com/)
 
 
 <!-- GETTING STARTED -->
